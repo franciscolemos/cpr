@@ -1,0 +1,5 @@
+# Constraint propagation requirements
+# Usage: pip install -r requirements.txt
+
+cpmpy
+numpy
